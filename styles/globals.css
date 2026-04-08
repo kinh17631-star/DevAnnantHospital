@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Thoda modern font */
+}
+
+html, body, #__next {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: #f5f7fb;
+  color: #111;
+  line-height: 1.6;
+}
+
+/* LINKS */
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: 0.3s;
+}
+
+/* BUTTON GLOBAL HOVER */
+button {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.95); /* Click karne par thoda dabne wala effect */
+}
+
+/* SMOOTH SCROLL */
+html {
+  scroll-behavior: smooth;
+}
+
+/* IMAGE FIX */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* CUSTOM SCROLLBAR (Optional: Website ko aur premium look deta hai) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0d6efd;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0b5ed7;
+}
