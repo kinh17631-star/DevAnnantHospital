@@ -62,10 +62,12 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* CONTACT */}
+        {/* CONTACT - ADDRESS UPDATED */}
         <div>
           <h3>Contact</h3>
-          <p>📍 NP 3/1, Ganga Nagar, Meerut</p>
+          <p style={{ marginBottom: "10px", lineHeight: "1.5" }}>
+            📍 H-328, Ganga Nagar, Near Dadhichi Public School, Mawana Road, Meerut 250001 (UP)
+          </p>
           <p>📞 098373 89977</p>
           <p>💬 WhatsApp Available</p>
         </div>
