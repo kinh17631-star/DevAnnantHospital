@@ -90,7 +90,9 @@ export default function PrivacyPolicy() {
 
         <h2 style={heading}>8. Contact Us</h2>
         <p style={text}>
-          If you have any questions regarding this Privacy Policy, please contact Dev Annant Hospital at <strong>098373 89977</strong>.
+          If you have any questions regarding this Privacy Policy, please contact <strong>Dev Annant Hospital</strong> at: <br />
+          <strong>H-328, Ganga Nagar, Near Dadhichi Public School, Mawana Road, Meerut 250001 (UP)</strong> <br />
+          Contact Number: <strong>098373 89977</strong>
         </p>
 
       </motion.section>
