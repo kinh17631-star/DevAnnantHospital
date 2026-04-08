@@ -86,7 +86,9 @@ export default function Terms() {
 
         <h2 style={heading}>8. Contact Information</h2>
         <p style={text}>
-          For any queries regarding these Terms & Conditions, please contact <strong>Dev Annant Hospital</strong> at <strong>098373 89977</strong>.
+          For any queries regarding these Terms & Conditions, please contact <strong>Dev Annant Hospital</strong> at: <br />
+          <strong>H-328, Ganga Nagar, Near Dadhichi Public School, Mawana Road, Meerut 250001 (UP)</strong> <br />
+          Contact Number: <strong>098373 89977</strong>
         </p>
 
       </motion.section>
