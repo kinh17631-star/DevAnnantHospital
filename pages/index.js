@@ -33,7 +33,7 @@ export default function Home() {
       {/* HERO SECTION WITH BACKGROUND IMAGE */}
       <section style={{
         position: "relative",
-        backgroundImage: "url('/IMG_4525.jpeg')",
+        backgroundImage: "url('/IMG_4532.jpeg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         color: "white",
