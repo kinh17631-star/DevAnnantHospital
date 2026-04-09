@@ -79,7 +79,7 @@ export default function Home() {
           { title: "1000+", sub: "Patients Treated" },
           { title: "85%", sub: "Recovery Rate" },
           { title: "24/7", sub: "Emergency" },
-          { title: "50+", sub: "Doctors" }
+          { title: "15+", sub: "Doctors" }
         ].map((item, i) => (
           <motion.div 
             key={i} 
