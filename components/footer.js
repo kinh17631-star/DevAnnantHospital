@@ -66,9 +66,9 @@ export default function Footer() {
         <div>
           <h3>Contact</h3>
           <p style={{ marginBottom: "10px", lineHeight: "1.5" }}>
-            📍 H-328, Ganga Nagar, Near Dadhichi Public School, Mawana Road, Meerut 250001 (UP)
+            📍 Ganga Nagar, Mawana Road, Meerut 250001 (UP)
           </p>
-          <p>📞 098373 89977</p>
+          <p>📞 08650921106</p>
           <p>💬 WhatsApp Available</p>
         </div>
 
