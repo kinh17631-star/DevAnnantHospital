@@ -155,7 +155,7 @@ export default function Home() {
           viewport={{ once: true }}
         >
           <h2 style={{ marginBottom: "15px" }}>Book Appointment Today</h2>
-          <p style={{ marginBottom: "20px" }}>Call us directly at <strong>098373 89977</strong> or schedule online.</p>
+          <p style={{ marginBottom: "20px" }}>Call us directly at <strong>08650921106</strong> or schedule online.</p>
 
           <a href="/appointment">
             <button style={btnLight}>Schedule Now</button>
