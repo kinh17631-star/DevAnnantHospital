@@ -22,11 +22,11 @@ export default function Sidebar() {
         
         <h3 style={title}>Dev Annant Hospital</h3>
 
-        <a href="https://wa.me/919837389977" style={{ ...btn, background: "#25D366" }}>
+        <a href="https://wa.me/918650921106" style={{ ...btn, background: "#25D366" }}>
           WhatsApp
         </a>
 
-        <a href="tel:09837389977" style={{ ...btn, background: "#0d6efd" }}>
+        <a href="tel:08650921106" style={{ ...btn, background: "#0d6efd" }}>
           Call
         </a>
 
