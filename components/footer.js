@@ -102,7 +102,7 @@ export default function Footer() {
         paddingTop: "15px"
       }}>
         <p>© 2026 Dev Annant Hospital</p>
-        <p>Created by A.S Tech Foundation</p>
+        <p>Created by A.S Tech Solutions</p>
       </div>
 
     </footer>
